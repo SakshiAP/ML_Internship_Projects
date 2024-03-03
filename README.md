@@ -1,7 +1,7 @@
 # ML Internship Projects
 
 ## Overview
-Hello, I'm Sakshi Pawar! This repository contains the projects I completed during my 1-month virtual internship at Bharat Intern. I worked on two exciting projects: Iris Flower Classification and a Movies Recommendation System.
+Hello, I'm Sakshi Pawar! This repository contains the projects that I completed during my 1-month virtual internship at Bharat Intern. I worked on two exciting projects: Iris Flower Classification and a Movies Recommendation System.
 
 ### Projects
 1. **Iris Flower Classification:**
@@ -28,6 +28,5 @@ Hello, I'm Sakshi Pawar! This repository contains the projects I completed durin
 ## Project Repository
 [ML_Internship_Projects](https://github.com/SakshiAP/ML_Internship_Projects)
 
-## Project Structure
-The code for both projects can be found in this repository. Here's a brief structure:
+
 
